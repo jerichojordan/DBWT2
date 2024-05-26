@@ -1,0 +1,14 @@
+1.Set.prototype.* (wie intersection) – Mengenoperationen.
+2.Static Blocks in Klassen zur Initialisierung statischer Variablen. Beispiel: class CL { static { /* … */ } }
+3.Array.prototype.flat(depth)
+4.Array.prototype.group zur Gruppierung von Elementen eines Arrays
+5.Neues Top-Level-Namespace Objekt “Temporal” als Weiterentwicklung von Date
+
+    a.JavaScriptCore, V8 und SpiderMonkey  unterstützen Nr. 1 3.
+      Nr. 4 gibt es in der Engine nicht.
+    b.Noch nicht, weil …
+    c.Quelle :
+        i.MDN = developer.mozilla.org
+        ii.bugs.chromium.org
+        iii.v8.dev
+        iv. webkit.org

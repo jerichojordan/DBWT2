@@ -1,0 +1,21 @@
+1.Facebook Graph API
+    a.Zweck : Die soziale Grafik von Facebook lesen und schreiben
+      Aktivität von Freunden in Facebook teilen (Spotify)
+    b.REST Prinzipien (alles außer Code on Demand)
+      1. Client-Server Aufteilung
+      2. Zustandslosigkeit
+      3. Cacheable
+      4. Einheitliche Schnittstelle
+      5. Mehrschichtige Systeme
+    c.Level 3, Facebook Graph API unterstützt auch HATEOAS
+    d.Version im Pfad (v13.0)
+2.Instagram Graph API (für Profis, Businesses, und Creators)
+    a.Zweck : Aktivität in Instagram verwalten
+    b.REST Prinzipien (alles außer Code on Demand)
+      1. Client-Server Aufteilung
+      2. Zustandslosigkeit
+      3. Cacheable
+      4. Einheitliche Schnittstelle
+      5. Mehrschichtige Systeme
+    c.Level 3, unterstützt HATEOAS
+    d.Version im Pfad

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>WebSocket: Client</title>
+</head>
+<body>
+  <div id="app">
+    <input id="input" type="text" size="40">
+    <button id="send">Send</button>
+    <hr>
+    <ul id="log"></ul>
+  </div>
+<script>
+    function show(direction, msg) {
+        let li = document.createElement('li');
+        li.innerHTML = direction + ': ' + msg;
+        document.getElementById('log').append(li);
+    }
+
+    let conn = new WebSocket('ws://localhost:8085/chat');
+    conn.onmessage = function(e) {
+        console.log('Received', e.data);
+        show('received', e.data);
+    };
+    conn.onopen = function(e) {
+        conn.send('I entered the room!');
+    };
+    document.getElementById('send').addEventListener('click', () => {
+        const msg = document.getElementById('input').value;
+        conn.send(msg);
+        show('send', msg);
+    });
+</script>
+</body>
+</html>

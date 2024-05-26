@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>3-ajax2-periodic.html</title>
+</head>
+<body>
+<p id="message"></p>
+<script>
+    function getMessage() {
+        let xhr = new XMLHttpRequest();
+        xhr.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                let message = JSON.parse(this.responseText);
+                let container = document.getElementById("message");
+                container.innerText=message.message;
+            }
+        };
+        xhr.open("POST", "static/message.json");
+        xhr.setRequestHeader("Content-Type", "application/json");
+        xhr.send();
+    }
+    setInterval(getMessage,5000);
+</script>
+</body>
+</html>

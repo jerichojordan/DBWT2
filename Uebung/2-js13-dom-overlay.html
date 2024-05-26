@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>2-js13-dom-overlay</title>
+</head>
+<body>
+  <script>
+    let container= document.createElement('div');
+    container.style.background='lightgrey';
+    container.style.position='absolute';
+    container.style.bottom='0px';
+    let text= document.createElement('p');
+    text.innerText="TestText";
+    text.style.textAlign='center';
+    container.appendChild(text);
+    document.body.appendChild(container);
+  </script>
+</body>
+</html>

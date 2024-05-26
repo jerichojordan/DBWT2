@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/abalo/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/abalo/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/abalo/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/abalo/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/abalo/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/abalo/vendor/symfony/uid" />
+      <excludeFolder url="file://$MODULE_DIR$/abalo/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/abalo/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/abalo/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/abalo/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/abalo/vendor/ratchet/pawl" />
+      <excludeFolder url="file://$MODULE_DIR$/abalo/vendor/paragonie/sodium_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/abalo/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/abalo/vendor/pusher/pusher-php-server" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

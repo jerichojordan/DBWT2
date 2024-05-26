@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>2-js12-dom-createElement</title>
+</head>
+<body>
+  <script>
+    let myForm= document.createElement("form");
+    let myTextInput = document.createElement("input");
+    myTextInput.setAttribute("type","text");
+    let myDropdown = document.createElement("select");
+    let myOption1= document.createElement("option");
+    myOption1.innerText="Option1";
+    let myOption2= document.createElement("option");
+    myOption2.innerText="Option2";
+    myDropdown.appendChild(myOption1);
+    myDropdown.appendChild(myOption2);
+    myForm.appendChild(myTextInput);
+    myForm.appendChild(myDropdown);
+    document.body.appendChild(myForm)
+  </script>
+</body>
+</html>

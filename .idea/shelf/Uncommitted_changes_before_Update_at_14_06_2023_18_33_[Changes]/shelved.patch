@@ -1,0 +1,95 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,7 +1,14 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="c68443a9-50ef-4057-9837-25c495a85214" name="Changes" comment="Keine Ahnung was ist das" />
++    <list default="true" id="c68443a9-50ef-4057-9837-25c495a85214" name="Changes" comment="A8 Start, Keine Ahnung ob es richtig ist">
++      <change beforePath="$PROJECT_DIR$/.idea/DBWT2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DBWT2.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/abalo/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/abalo/composer.json" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/abalo/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/abalo/composer.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/abalo/websocketclient.php" beforeDir="false" afterPath="$PROJECT_DIR$/abalo/websocketclient.php" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -16,7 +23,6 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+@@ -140,6 +146,9 @@
+       <path value="$PROJECT_DIR$/abalo/vendor/laravel/framework" />
+       <path value="$PROJECT_DIR$/abalo/vendor/nesbot/carbon" />
+       <path value="$PROJECT_DIR$/abalo/vendor/ratchet/pawl" />
++      <path value="$PROJECT_DIR$/abalo/vendor/paragonie/sodium_compat" />
++      <path value="$PROJECT_DIR$/abalo/vendor/paragonie/random_compat" />
++      <path value="$PROJECT_DIR$/abalo/vendor/pusher/pusher-php-server" />
+     </include_path>
+   </component>
+   <component name="ProblemsViewState">
+@@ -244,6 +253,9 @@
+       <workItem from="1686654883044" duration="5269000" />
+       <workItem from="1686675870116" duration="716000" />
+       <workItem from="1686676618647" duration="7520000" />
++      <workItem from="1686688757352" duration="2110000" />
++      <workItem from="1686694150713" duration="1231000" />
++      <workItem from="1686734125775" duration="4892000" />
+     </task>
+     <task id="LOCAL-00001" summary="M4 Aufgabe 3 (auf Google Docs)&#10;A4 csv Datei geaddet, Änderungen bei Seeder &amp; Table&#10;A8&amp;9 Neue Vue-Komponente (noch leer) &amp; newsite Route erstellt">
+       <created>1685308593976</created>
+@@ -308,7 +320,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1686677155136</updated>
+     </task>
+-    <option name="localTasksCounter" value="10" />
++    <task id="LOCAL-00010" summary="Newarticle kleine Änderungen">
++      <created>1686687187583</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1686687187583</updated>
++    </task>
++    <task id="LOCAL-00011" summary="A8 Start, Keine Ahnung ob es richtig ist">
++      <created>1686736437888</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1686736437888</updated>
++    </task>
++    <option name="localTasksCounter" value="12" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -325,7 +351,7 @@
+                   <entry key="branch">
+                     <value>
+                       <list>
+-                        <option value="Test" />
++                        <option value="main" />
+                       </list>
+                     </value>
+                   </entry>
+@@ -347,6 +373,8 @@
+     <MESSAGE value="M4 A9 Pagination gefixt, brauche noch eine Hilfe bei der Suchfunktion" />
+     <MESSAGE value="M4 A9 alles gefixt, aber kommt die Meldung &quot;Too Many Request&quot; mehr oft wie vorher" />
+     <MESSAGE value="M5 A3 Alle Komponente zum resources Verzeichnis verschoben &amp; vite benutzen&#10;Start A8" />
+-    <option name="LAST_COMMIT_MESSAGE" value="M5 A3 Alle Komponente zum resources Verzeichnis verschoben &amp; vite benutzen&#10;Start A8" />
++    <MESSAGE value="Newarticle kleine Änderungen" />
++    <MESSAGE value="A8 Start, Keine Ahnung ob es richtig ist" />
++    <option name="LAST_COMMIT_MESSAGE" value="A8 Start, Keine Ahnung ob es richtig ist" />
+   </component>
+ </project>
+\ No newline at end of file

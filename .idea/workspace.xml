@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c68443a9-50ef-4057-9837-25c495a85214" name="Changes" comment="A10a Meldung Update, /login2 für Einloggen anderes Users">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_06_2023_18_33_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abalo/resources/js/components/SiteBody.js" beforeDir="false" afterPath="$PROJECT_DIR$/abalo/resources/js/components/SiteBody.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/abalo/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/abalo/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/abalo/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/abalo/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/abalo/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/abalo/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/abalo/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/abalo/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/abalo/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/abalo/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/abalo/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/abalo/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/abalo/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/abalo/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/abalo/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/abalo/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/abalo/vendor/laravel/pint" />
+      <path value="$PROJECT_DIR$/abalo/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/abalo/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/abalo/vendor/league/config" />
+      <path value="$PROJECT_DIR$/abalo/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/abalo/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/abalo/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/abalo/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/abalo/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/abalo/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/abalo/vendor/spatie/laravel-ignition" />
+      <path value="$PROJECT_DIR$/abalo/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/abalo/vendor/spatie/ignition" />
+      <path value="$PROJECT_DIR$/abalo/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/abalo/vendor/spatie/flare-client-php" />
+      <path value="$PROJECT_DIR$/abalo/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/abalo/vendor/spatie/backtrace" />
+      <path value="$PROJECT_DIR$/abalo/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/abalo/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/abalo/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/abalo/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/abalo/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/abalo/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/abalo/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/abalo/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/abalo/vendor/composer" />
+      <path value="$PROJECT_DIR$/abalo/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/abalo/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/abalo/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/abalo/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/abalo/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/abalo/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/abalo/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/abalo/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/abalo/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/abalo/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/abalo/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/abalo/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/abalo/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/abalo/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/abalo/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/abalo/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/abalo/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/abalo/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/abalo/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/abalo/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/abalo/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/abalo/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/abalo/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/abalo/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/abalo/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/abalo/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/abalo/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/abalo/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/abalo/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/abalo/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/abalo/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/abalo/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/abalo/vendor/cboden/ratchet" />
+      <path value="$PROJECT_DIR$/abalo/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/abalo/vendor/react/stream" />
+      <path value="$PROJECT_DIR$/abalo/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/abalo/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/abalo/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/abalo/vendor/react/dns" />
+      <path value="$PROJECT_DIR$/abalo/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/abalo/vendor/ratchet/rfc6455" />
+      <path value="$PROJECT_DIR$/abalo/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/abalo/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/abalo/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/abalo/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/abalo/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/abalo/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/abalo/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/abalo/vendor/ratchet/pawl" />
+      <path value="$PROJECT_DIR$/abalo/vendor/paragonie/sodium_compat" />
+      <path value="$PROJECT_DIR$/abalo/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/abalo/vendor/pusher/pusher-php-server" />
+    </include_path>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2PmJpZWcb4aXaqCWpWhyzS6Lv98" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Users/Jericho Jordan/Documents/GitHub/DBWT-Praktikum",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "web-ide.project.structure",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\PhpStorm 2022.2.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Jericho Jordan\Documents\GitHub\DBWT2\abalo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Jericho Jordan\Documents\GitHub\DBWT2\abalo\resources\js" />
+      <recent name="D:\Users\Jericho Jordan\Documents\GitHub\DBWT2\abalo\app" />
+      <recent name="D:\Users\Jericho Jordan\Documents\GitHub\DBWT2\abalo\resource\js" />
+      <recent name="D:\Users\Jericho Jordan\Documents\GitHub\DBWT2\abalo\public\js" />
+      <recent name="D:\Users\Jericho Jordan\Documents\GitHub\DBWT2\abalo\database\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/abalo/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/abalo/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c68443a9-50ef-4057-9837-25c495a85214" name="Changes" comment="Aufgabe 7&#10;noch nicht funktioniert" />
+      <created>1684056506178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684056506178</updated>
+      <workItem from="1684056509342" duration="2215000" />
+      <workItem from="1684133568996" duration="602000" />
+      <workItem from="1684267203953" duration="493000" />
+      <workItem from="1685216017161" duration="2666000" />
+      <workItem from="1685220963778" duration="1379000" />
+      <workItem from="1685272650706" duration="4787000" />
+      <workItem from="1685306935090" duration="1821000" />
+      <workItem from="1685351831111" duration="3601000" />
+      <workItem from="1685382533182" duration="5505000" />
+      <workItem from="1685388922507" duration="1013000" />
+      <workItem from="1685390699115" duration="1507000" />
+      <workItem from="1685440252614" duration="8773000" />
+      <workItem from="1685474200871" duration="5997000" />
+      <workItem from="1685560907621" duration="2985000" />
+      <workItem from="1685738147253" duration="5284000" />
+      <workItem from="1685744451475" duration="2140000" />
+      <workItem from="1685884213148" duration="272000" />
+      <workItem from="1685960746771" duration="4405000" />
+      <workItem from="1685966736002" duration="1962000" />
+      <workItem from="1685969958674" duration="1434000" />
+      <workItem from="1685995362063" duration="1567000" />
+      <workItem from="1686485930241" duration="611000" />
+      <workItem from="1686507738452" duration="2011000" />
+      <workItem from="1686595179905" duration="1232000" />
+      <workItem from="1686597929521" duration="842000" />
+      <workItem from="1686604807993" duration="11702000" />
+      <workItem from="1686654883044" duration="5269000" />
+      <workItem from="1686675870116" duration="716000" />
+      <workItem from="1686676618647" duration="7520000" />
+      <workItem from="1686846966292" duration="5719000" />
+      <workItem from="1686857537277" duration="6481000" />
+      <workItem from="1686921577959" duration="3987000" />
+      <workItem from="1686944912103" duration="6086000" />
+      <workItem from="1686987891054" duration="11920000" />
+      <workItem from="1687010691463" duration="13326000" />
+      <workItem from="1687103922137" duration="1342000" />
+      <workItem from="1687121162182" duration="812000" />
+      <workItem from="1687164613930" duration="4409000" />
+      <workItem from="1700689672863" duration="64000" />
+    </task>
+    <task id="LOCAL-00001" summary="M4 Aufgabe 3 (auf Google Docs)&#10;A4 csv Datei geaddet, Änderungen bei Seeder &amp; Table&#10;A8&amp;9 Neue Vue-Komponente (noch leer) &amp; newsite Route erstellt">
+      <created>1685308593976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685308593976</updated>
+    </task>
+    <task id="LOCAL-00002" summary="M4 Aufgabe 8,9,10&#10;Impressum kommt noch nicht vor aber Menu funktioniert jetzt">
+      <created>1685445814493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685445814493</updated>
+    </task>
+    <task id="LOCAL-00003" summary="M4 Aufgabe 9&#10;Impressum kommt jetzt vor aber nicht klickbar und funktioniert nicht">
+      <created>1685448826636</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685448826636</updated>
+    </task>
+    <task id="LOCAL-00004" summary="M4 &#10;Impressumslink funktioniert nicht,&#10;navmenu Änderung aber css funktioniert nicht">
+      <created>1685563301819</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685563301819</updated>
+    </task>
+    <task id="LOCAL-00005" summary="M4 A9 Impressum fixed">
+      <created>1685746494676</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685746494676</updated>
+    </task>
+    <task id="LOCAL-00006" summary="M4 A9 Impressum not fully fixed">
+      <created>1685964611008</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685964611008</updated>
+    </task>
+    <task id="LOCAL-00007" summary="M4 A9 Pagination gefixt, brauche noch eine Hilfe bei der Suchfunktion">
+      <created>1685968647276</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685968647276</updated>
+    </task>
+    <task id="LOCAL-00008" summary="M4 A9 alles gefixt, aber kommt die Meldung &quot;Too Many Request&quot; mehr oft wie vorher">
+      <created>1685996404221</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685996404221</updated>
+    </task>
+    <task id="LOCAL-00009" summary="M5 A3 Alle Komponente zum resources Verzeichnis verschoben &amp; vite benutzen&#10;Start A8">
+      <created>1686677155136</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686677155136</updated>
+    </task>
+    <task id="LOCAL-00010" summary="A8 Verbesserung, A10 Start">
+      <created>1686770218959</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686770218959</updated>
+    </task>
+    <task id="LOCAL-00011" summary="A10 Button implementiert ohne Axios">
+      <created>1686860493638</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686860493638</updated>
+    </task>
+    <task id="LOCAL-00012" summary="A8 Edit">
+      <created>1686862948376</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686862948376</updated>
+    </task>
+    <task id="LOCAL-00013" summary="A10 Fertig, sehr Buggy">
+      <created>1686995971083</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686995971083</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Test All File Commit">
+      <created>1687000032539</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1687000032539</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Last Try">
+      <created>1687000576942</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1687000576942</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fix Axios usage for A10">
+      <created>1687036821108</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1687036821108</updated>
+    </task>
+    <task id="LOCAL-00017" summary="A10a Meldung Update, /login2 für Einloggen anderes Users">
+      <created>1687104729078</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1687104729078</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="TryFix" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="M4 Aufgabe 3 (auf Google Docs)&#10;A4 csv Datei geaddet, Änderungen bei Seeder &amp; Table&#10;A8&amp;9 Neue Vue-Komponente (noch leer) &amp; newsite Route erstellt" />
+    <MESSAGE value="M4 Aufgabe 8,9,10&#10;Impressum kommt noch nicht vor aber Menu funktioniert jetzt" />
+    <MESSAGE value="M4 Aufgabe 9&#10;Impressum kommt jetzt vor aber nicht klickbar und funktioniert nicht" />
+    <MESSAGE value="M4 &#10;Impressumslink funktioniert nicht,&#10;navmenu Änderung aber css funktioniert nicht" />
+    <MESSAGE value="M4 A9 Impressum fixed" />
+    <MESSAGE value="M4 A9 Impressum not fully fixed" />
+    <MESSAGE value="M4 A9 Pagination gefixt, brauche noch eine Hilfe bei der Suchfunktion" />
+    <MESSAGE value="M4 A9 alles gefixt, aber kommt die Meldung &quot;Too Many Request&quot; mehr oft wie vorher" />
+    <MESSAGE value="M5 A3 Alle Komponente zum resources Verzeichnis verschoben &amp; vite benutzen&#10;Start A8" />
+    <MESSAGE value="A8 Verbesserung, A10 Start" />
+    <MESSAGE value="A10 Button implementiert ohne Axios" />
+    <MESSAGE value="A8 Überarbeitung" />
+    <MESSAGE value="A8 Edit" />
+    <MESSAGE value="A10 Complete, sehr Buggy" />
+    <MESSAGE value="A10 Fertig, sehr Buggy" />
+    <MESSAGE value="Test All File Commit" />
+    <MESSAGE value="Last Try" />
+    <MESSAGE value="Fix Axios usage for A10" />
+    <MESSAGE value="A10a Meldung Update, /login2 für Einloggen anderes Users" />
+    <option name="LAST_COMMIT_MESSAGE" value="A10a Meldung Update, /login2 für Einloggen anderes Users" />
+  </component>
+</project>

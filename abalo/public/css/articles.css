@@ -1,0 +1,42 @@
+#navmenu{
+    display: inline-grid;
+    list-style-type: none;
+    grid-auto-flow: column;
+    grid-auto-columns: max-content;
+    align-self: center;
+    margin: auto;
+}
+
+nav {
+    border-bottom: 1px solid #333;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    padding: 10px 20px;
+    margin-right: 10px;
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+nav li:last-child {
+    margin-right: 0;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav li:hover {
+    background-color: darkblue;
+    color: white;
+}

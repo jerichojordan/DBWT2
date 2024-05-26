@@ -1,0 +1,12 @@
+Autocompletion:
+Ein sehr nützliches Feature ist z.B. die Autovervollständigung. Die es dem Nutzer erlaubt schon
+nachdem man Code schreibt schlgt diese dem Entwickler Vervollständigungen vor, die so das entwickelt
+erleichtern.
+
+UI für Datenbank Einsicht:
+Über dieses UI kann man sich einen Überblick über die Daten in der DB schaffen, diese verändern und löschen.
+Dies erleichtert häufig einiges, da man nicht für jeden Check eine SQL Abfrage tätigen muss.
+
+UI für Git:
+Durch die Elemente die für die Kommunikation mit Git zur Verfügung gestellt sind kann man einfach Dateien pushen etc
+ohne die Konsole zu nutzen dies erleichtert einen sehr.

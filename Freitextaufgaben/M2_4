@@ -1,0 +1,17 @@
+Gemeinsamkeiten zwischen JavaScript und Java:
+
+Beide sind objektorientierte Programmiersprachen.
+Beide unterstützen die Verwendung von Klassen und Vererbung.
+Beide haben die Möglichkeit, Variablen und Arrays zu deklarieren und zu manipulieren.
+Beide können auf Webanwendungen angewendet werden.
+Beide unterstützen die Verwendung von Kontrollstrukturen wie If-else-Anweisungen und Schleifen.
+Beide unterstützen die Verwendung von Funktionen.
+Unterschiede zwischen JavaScript und Java:
+
+JavaScript ist eine interpretierte Sprache, während Java kompiliert wird.
+JavaScript kann direkt im Webbrowser ausgeführt werden, während Java eine separate
+virtuelle Maschine erfordert.
+JavaScript ist lockere Typisierung, während Java eine strenge Typisierung hat.
+JavaScript ist schwächer in der Unterstützung von Threads und Multithreading als Java.
+Java hat strengere Sicherheitsfunktionen als JavaScript.
+JavaScript hat ein asynchrones Programmiermodell, während Java auf ein synchrones Programmiermodell setzt.

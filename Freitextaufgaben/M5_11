@@ -1,0 +1,27 @@
+Echtzeit-Benachrichtigungen über Lagerbestände: Durch die
+Integration von WebSockets kann ein Online-Webshop Echtzeit-Benachrichtigungen
+über die Verfügbarkeit von Produkten senden. Wenn ein Kunde ein bestimmtes Produkt
+sucht, kann er eine Benachrichtigung erhalten, sobald es wieder auf Lager ist. Dies
+ermöglicht es dem Kunden, sofortige Maßnahmen zu ergreifen, anstatt regelmäßig die Website
+zu überprüfen oder auf E-Mail-Benachrichtigungen zu warten. Der Kundennutzen
+besteht darin, dass sie die Möglichkeit haben, begehrte Produkte schnell zu kaufen,
+bevor sie ausverkauft sind.
+
+Live-Chat-Unterstützung: Durch die Integration von WebSockets kann ein Online-Webshop
+einen Live-Chat-Support anbieten. Kunden können direkt mit einem
+Kundendienstmitarbeiter oder Verkaufsberater kommunizieren, um Fragen zu
+Produkten, Bestellungen oder anderen Anliegen zu stellen. Im Gegensatz
+zu herkömmlichen Support-Kanälen wie E-Mails oder Telefonanrufen
+ermöglicht der Live-Chat eine sofortige Interaktion in Echtzeit.
+Der Kundennutzen besteht darin, dass Kunden schnelle Antworten auf ihre
+Fragen erhalten und Probleme oder Unklarheiten in Echtzeit klären können.
+
+Echtzeit-Bestellverfolgung: WebSockets können verwendet werden, um Kunden
+über den aktuellen Status ihrer Bestellungen in Echtzeit zu informieren.
+Kunden können Updates erhalten, wenn ihre Bestellung bestätigt wurde,
+versandt wurde oder sich im Lieferprozess befindet. Dies ermöglicht
+es den Kunden, den Fortschritt ihrer Bestellung genau zu verfolgen, ohne
+die Website aktualisieren oder E-Mails überprüfen zu müssen.
+Der Kundennutzen besteht darin, dass Kunden jederzeit über den
+Status ihrer Bestellungen informiert sind und eine bessere Transparenz und
+Sicherheit während des gesamten Bestellprozesses haben.

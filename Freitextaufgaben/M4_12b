@@ -1,0 +1,4 @@
+Werden Änderungen am Suchfilter vorgenommen so soll die Seite immer zurück an den
+anfang springen, da es einfacher ist den Offset etc. zu handlen.
+Auch z.B. ebay geht mit den Filtern in der selben Art um, ändert man einen Filter so
+landet man wieder am anfang der Artikel.

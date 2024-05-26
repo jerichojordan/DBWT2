@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>2-js5-array</title>
+</head>
+<body>
+  <script>
+    "use strict";
+    let z=new Array("erstens","zweitens",3,4);
+    for(let a=0;a<z.length;a++){
+      console.info(z[a]);
+    }
+    z.forEach(function(value,index){
+      console.info(value);
+    });
+    for(const el of z){
+      console.info(el);
+    }
+    z.push(5);
+    for(const el of z){
+      console.info(el);
+    }
+    z.pop();
+    for(const el of z){
+      console.info(el);
+    }
+    z[1]=2;
+    for(const el of z){
+      console.info(el);
+    }
+  </script>
+</body>
+</html>

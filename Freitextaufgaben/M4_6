@@ -1,0 +1,3 @@
+Da nach jeder Änderung ein Request verschickt wird der die Api nach den
+Datensätzen abfragt, kann es ab einer bestimmten Nutzeranzahl schnell zu
+Überlastungen kommen, vorallem wenn diese gleichzeitig Daten anfordern.

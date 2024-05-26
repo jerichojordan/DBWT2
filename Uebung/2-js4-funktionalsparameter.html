@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>2-js4-funktionalsparameter</title>
+</head>
+<body>
+  <script>
+    "use strict";
+    function executefn(fn,x,y){
+      return fn(x,y);
+    }
+    console.info(executefn(function (x,y){
+      return x*y;
+    },2,3));
+  </script>
+</body>
+</html>
